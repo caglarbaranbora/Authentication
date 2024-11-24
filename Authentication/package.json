@@ -13,7 +13,7 @@
     "@react-navigation/native": "^6.1.7",
     "@react-navigation/native-stack": "^6.9.13",
     "@reduxjs/toolkit": "^1.9.5",
-    "axios": "^1.4.0",
+    "axios": "^1.7.4",
     "express": "^4.18.2",
     "mysql2": "^3.9.4",
     "react": "18.1.0",
